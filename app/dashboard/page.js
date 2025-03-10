@@ -11,9 +11,9 @@ export default function Dashboard() {
 
   // Static data
   const user = {
-    username: 'DADA LUKMAN DAMILARE   ID- 23010231100',
-    id: '23010231100',
-    wallet: '23010231100',
+    username: 'Ogunfodunrin Ibrahim ayobola  ID- 23010231154',
+    id: '23010231154',
+    wallet: '23010231154',
     balance: '4.721 ETH',
     usdValue: '$15,432.80'
   };
