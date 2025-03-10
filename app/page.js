@@ -16,7 +16,7 @@ export default function Login() {
     e.preventDefault();
 
     // Default credentials
-    if (username === '23010231100' && password === 'dada') {
+    if (username === '23010231154' && password === 'ogunfodunrin') {
       setError('');
       alert('Login successful!');
       router.push('/dashboard'); // Replace with your dashboard route
